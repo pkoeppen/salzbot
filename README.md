@@ -21,7 +21,7 @@ Post a message with `/` followed by one of the commands below to the WhatsApp gr
 ... Returns a random "truth" question.
 - **dare**
 ... Returns a random "dare" challenge.
-- **insult** <person>
+- **insult** &lt;person&gt;
 ... Returns a personalized insult.
-- **compliment** <person>
+- **compliment** &lt;person&gt;
 ... Returns a personalized compliment.
